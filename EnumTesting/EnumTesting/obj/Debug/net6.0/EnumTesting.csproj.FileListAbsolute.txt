@@ -1,0 +1,15 @@
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\bin\Debug\net6.0\EnumTesting.exe
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\bin\Debug\net6.0\EnumTesting.deps.json
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\bin\Debug\net6.0\EnumTesting.runtimeconfig.json
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\bin\Debug\net6.0\EnumTesting.dll
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\bin\Debug\net6.0\EnumTesting.pdb
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.csproj.AssemblyReference.cache
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.AssemblyInfoInputs.cache
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.AssemblyInfo.cs
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.csproj.CoreCompileInputs.cache
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.dll
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\refint\EnumTesting.dll
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.pdb
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\EnumTesting.genruntimeconfig.cache
+C:\Users\lucas.blackaller\GitHub\Training\EnumTesting\EnumTesting\obj\Debug\net6.0\ref\EnumTesting.dll
